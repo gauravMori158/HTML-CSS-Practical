@@ -177,7 +177,7 @@ div.desc {
 #thirds {
     display: flex;
     color: rgb(78, 78, 78);
-    justify-content: flex-start;
+    justify-content: space-between;
     background-color: rgb(255, 255, 255);
     border: 1px solid rgb(203, 203, 203);
     padding: 20px;
@@ -208,4 +208,8 @@ div.desc {
     margin-top: 40px;
     padding: 10px;
     margin-right: 40px;
+}
+
+#ne1 {
+    width: 100%;
 }
