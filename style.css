@@ -201,7 +201,7 @@ div.desc {
     margin-left: 40px;
     margin-right: 40px;
     gap: 5px;
-    justify-content: flex-start;
+    justify-content: space-between;
 }
 
 #gift {
