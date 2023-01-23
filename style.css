@@ -89,7 +89,7 @@ form.search1 button {
 .dropdown-content a {
     box-sizing: border-box;
     color: rgb(0, 0, 0);
-    background-color: rgb(250, 250, 250);
+    background-color: rgb(255, 251, 253);
     width: 200px;
     padding: 10px;
     text-decoration: none;
@@ -119,7 +119,7 @@ i {
     margin-right: 20PX;
     margin-top: 15px;
     font-size: 14px;
-    font-weight: bold;
+    
 }
 
 .second a {
